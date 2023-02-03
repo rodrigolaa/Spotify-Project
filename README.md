@@ -31,17 +31,17 @@ What I have learnend?
      - Save the credetials json file in the folder of the project.
      
      
-#### For more details watch this video teaching how to configure the Google API [tutorial](https://www.youtube.com/watch?v=ddf5Z0aQPzY&t=292s)
+For more details watch this video teaching how to configure the Google API [tutorial](https://www.youtube.com/watch?v=ddf5Z0aQPzY&t=292s)
      
      
 ![image](https://user-images.githubusercontent.com/50839107/196178326-f698ad02-266f-42ae-9b9c-97c42256c928.png)
 
 
-### 3) Upload the Script in a AWS Lambda Function to run in a server.
+### 3) Create Python Deployment Package (.zip) with all packages and code.
 
-### 4) Create Python Deployment Package (.zip) to Lambda Function
+### 4) Upload the .ZIP file in a AWS Lambda Function with AWS CLI.
 
-#### Set windows python and packages to Linux Base:
+### 5) Set a Cron job with EventBridge alarm every day.
 
 ##### For more details follow this [Tutorial](https://www.youtube.com/watch?v=OLXEekDzpHQ&t=12s)
 
