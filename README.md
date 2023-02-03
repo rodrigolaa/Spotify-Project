@@ -31,7 +31,7 @@ What I have learnend?
      - Save the credetials json file in the folder of the project.
      
      
-For more details watch this video teaching how to configure the Google API [tutorial](https://www.youtube.com/watch?v=ddf5Z0aQPzY&t=292s)
+For more details in how to configure the <b>Google API</b>  watch this video: [tutorial](https://www.youtube.com/watch?v=ddf5Z0aQPzY&t=292s)
      
      
 ![image](https://user-images.githubusercontent.com/50839107/196178326-f698ad02-266f-42ae-9b9c-97c42256c928.png)
@@ -43,9 +43,9 @@ For more details watch this video teaching how to configure the Google API [tuto
 
 ### 5) Set a Cron job with EventBridge alarm every day.
 
-##### For more details follow this [Tutorial](https://www.youtube.com/watch?v=OLXEekDzpHQ&t=12s)
+##### For more details, follow this [Tutorial](https://www.youtube.com/watch?v=OLXEekDzpHQ&t=12s)
 
 ![image](https://user-images.githubusercontent.com/50839107/196178492-751e3662-af7a-4579-bca2-edeacc4f7202.png)
 
-
+#### Thanks!
 
