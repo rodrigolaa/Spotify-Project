@@ -1,5 +1,6 @@
 # Spotify Project 
-How to create a Looker Studio Dashboard with the top 50 tracks in the world. The data was retrived usinga Python script that consumers the Spotify API and uses a Lambda Function to register the dta in a Google Sheets.
+This project aims to create <b>Looker Studio Dashboard</b> with the top 50 tracks in the world. 
+The data was retrived using a <b>Python</b> script that consumers the <b>Spotify API</b> and uses a <b>Lambda Function</b> to register the dta in a <b>Google Sheets</b>.
 
 #### [Dashboard](https://datastudio.google.com/u/0/reporting/6ed6acc6-36f4-4366-a348-a297ba9c4e52/page/X8w4C).
 
